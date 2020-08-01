@@ -1,4 +1,4 @@
-# _Howdy!_ 🤠
+<center><h1><i>Howdy!🤠</i></h1></center>
 
 <!-- 
 I’m a high school rising sophomore who 
