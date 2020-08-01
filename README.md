@@ -1,10 +1,9 @@
 <table>
-  <tbody>
-    <tr>
-      <td>
-        <h1 align="center"><i>Howdy! 🤠</i></h1>
-      </td>
-      <td>
+  <tr>
+    <td>
+      <h1><i>Howdy! 🤠</i></h1>
+    </td>
+    <td>
 <pre>
                                      )
                             )      ((     (
@@ -26,9 +25,31 @@
 -----||-/------`-._/||-o--o---o---
   ~~~~~'
 </pre>
-      </td>
-    </tr>
-  </tbody>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>About me 🦖</h3>
+    </td>
+    <td>
+      I'm a rising sophomore in high school and a member of @hackclub. I specialize in front-end web development (HTML/CSS/JS) and I also like gardening 🌱
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>What I've worked on ✏️</h3>
+    </td>
+    <td>
+      - Hack Club webring
+      - COVIDcalm
+    </td>
+  </tr>
 </table>
 <!-- 
 I’m a rising sophomore in high school and member of @hackclub 
