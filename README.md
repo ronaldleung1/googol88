@@ -1,4 +1,4 @@
-# _Howdy!_🤠
+# _Howdy!_ 🤠
 
 <!-- 
 I’m a high school rising sophomore who 
