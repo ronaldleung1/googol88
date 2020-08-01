@@ -1,5 +1,10 @@
-<h1 align="center"><i>Howdy! 🤠</i></h1>
-
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <h1 align="center"><i>Howdy! 🤠</i></h1>
+      </td>
+      <td>
 <pre>
                                      )
                             )      ((     (
@@ -21,6 +26,10 @@
 -----||-/------`-._/||-o--o---o---
   ~~~~~'
 </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!-- 
 I’m a rising sophomore in high school and member of @hackclub 
 - 🌱 I’m currently learning ...
