@@ -47,10 +47,12 @@
       <h3>What I've worked on ✏️</h3>
     </td>
     <td>
+      <br>
       💍 <a href="https://webring.hackclub.com/">Hack Club Webring</a> (<a href="https://github.com/hackclub/webring">repo</a>) - a collection of personal sites for members of Hack Club<br><br>
       🦠 <a href="https://covidcalm.netlify.app/">COVIDcalm</a> (<a href="https://github.com/4Gleneyre/COVIDCalm">repo</a>) -  A breathing assistant made to combat stress from the coronavirus pandemic, earned Best Project Demo on Devpost in MLH Local Hack Day: Share<br><br>
       📓 <a href="https://googol88.github.io/">Personal Portfolio</a> (<a href="https://github.com/googol88/googol88.github.io">repo</a>) - A basic single-page website which serves mainly as a portal to other projects<br><br>
       🏙️ <a href="https://googol.neocities.org/">googol.neocities.org</a> - Part parody, part mini-project showcase, hosted on NeoCities
+      <br>
     </td>
   </tr>
 </table>
