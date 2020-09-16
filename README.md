@@ -36,7 +36,8 @@
       <h3>About me 🦖</h3>
     </td>
     <td>
-      I'm a rising sophomore in high school and a member of @hackclub. I specialize in front-end web development (HTML/CSS/JS) and I also like gardening 🌱
+      I'm a sophomore in high school and a member of <a href="https://github.com/hackclub"><b>@hackclub</b></a>. I specialize in front-end web development and I also like gardening 🌱 <br />
+      I'm currently learning React and Socket.IO; be sure to check back for upcoming projects!
     </td>
   </tr>
 </table>
