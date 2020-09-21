@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1><i>Howdy! 🤠</i></h1>
-      <p align="right">Me on fire 🔥 →</p>
+      <p align="right">I'm on fire 🔥 →</p>
     </td>
     <td>
 <pre>
