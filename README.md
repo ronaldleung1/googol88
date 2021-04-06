@@ -37,7 +37,7 @@
     </td>
     <td>
       <br>
-      I'm a sophomore in high school and a member of <a href="https://github.com/hackclub"><b>@hackclub</b></a>. I specialize in front-end web development and I also like gardening 🌱
+      I'm a high schooler and a member of <a href="https://github.com/hackclub"><b>@hackclub</b></a>. I specialize in front-end web development and I also like gardening 🌱
       <br><br>
       I'm currently working on <a href="https://reacctor.herokuapp.com">Reacctor</a> - it's a platform for sending real-time feedback with
       <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="24" height="24"/><i>custom emojis</i><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="24" height="24"/>
