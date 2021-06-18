@@ -7,11 +7,7 @@
     </td>
     <td>
       <br>
-      I'm a high schooler and a member of <a href="https://github.com/hackclub"><b>@hackclub</b></a>. I specialize in front-end web development and I also like gardening 🌱
-      <br><br>
-      I'm currently working on <a href="https://reacctor.herokuapp.com">Reacctor</a> - it's a platform for sending real-time feedback with
-      <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="24" height="24"/><i>custom emojis</i><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="24" height="24"/>
-      during video conferences.
+      I'm a high schooler and a member of <a href="https://github.com/hackclub"><b>@hackclub</b></a>. I specialize in full-stack web development, but I'm also dabbling in machine learning and 3D graphics.
       <br><br>
     </td>
   </tr>
@@ -32,3 +28,9 @@
     </td>
   </tr>
 </table>
+<details>
+  <summary>:octocat: GitHub Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=googol88&theme=dark" alt="GitHub Stats"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=googol88&style=flat-square&color=151515" alt="GitHub Profile Views"/>
+</details>
