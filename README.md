@@ -1,6 +1,5 @@
 <h1 align="center"><code>Hello!</code></h1>
-<p align="center"><samp>I'm a high school student and full-stack web developer. At the moment, I'm an apprentice at <a href="https://getreflect.app/">reflect</a>, a digitally mindful browser extension. Take a look at my pinned repositories below for more!</samp></p>
-<p align="center"><samp>p.s. go register for <a href="https://hillshacks.com">hillsHacks</a></samp></p>
+<p align="center"><samp>I'm a high school student and full-stack web developer. Take a look at my pinned repositories below for more!</samp></p>
 <details>
   <summary>Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=googol88&theme=dark" alt="GitHub Stats"/>
